@@ -12,7 +12,7 @@
 
 ## 💻 Tecnologías
 
-Esta aplicación se construyó con HTML, CSS y JavaScript "vanilla" utilizando Vite para el despliegue y consumo de API del clima.
+Esta aplicación se construyó con Angular para el despliegue y consumo de API del clima.
 
 ## 🛠️ Instalación
 
